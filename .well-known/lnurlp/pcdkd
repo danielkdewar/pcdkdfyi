@@ -3,7 +3,7 @@
   "tag":"payRequest",
   "commentAllowed":255,
   "callback":"https://getalby.com/lnurlp/pcdkd/callback",
-  "metadata":"[[\"text/identifier\", \"pcdkd@getalby.com\"], [\"text/plain\", \"Sats for pcdkd\"]]",
+  "metadata":"[[\"text/identifier\",\"pcdkd@getalby.com\"],[\"text/plain\",\"Sats for pcdkd\"]]",
   "minSendable":1000,"maxSendable":11000000000,
   "payerData":
     {
